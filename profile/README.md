@@ -9,6 +9,6 @@
   <h3 align="center">noteora</h3>
 
   <p align="center">
-    An open-source note taking app.
+    An old, archived project that didnt get off the ground. Use obsidian.
   </p>
 </div>
